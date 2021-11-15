@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Education</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_your_email">enter your email</string>
+    <string name="enter_your_password">enter your password</string>
+    <string name="if_you_don_t_have_account_please_sign_up_first">if you don\'t have account please sign up first</string>
+    <string name="login">LOGIN</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="if_you_have_an_account_please_go_to_login_page">if you have an account please go to login page</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="are_you_a_teacher">Are you A Teacher</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="add_image">Add Image</string>
+    <string name="please_enter_your_number">please Enter Your Number</string>
+    <string name="go_to_home_page">Go to Home Page</string>
+    <string name="educational">Educational</string>
+    <string name="about_us">About Us</string>
+</resources>
